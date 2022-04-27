@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to Shiqi's website!
+
+## Hello! My name is Shiqi Yu, you can also call me by Nikky. I am currently a Cornell graudate student majoring in Operations Research and Information Engineering with the concentration Data Analysis. This is the first website that I've ever built.
